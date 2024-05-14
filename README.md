@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif"  />
+<img align="right" height="200" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gif-gato-1519137077.gif?crop=1.00xw:0.502xh;0,0.316xh&resize=640:*"  />
 
 ###
 
