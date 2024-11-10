@@ -6,21 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023!!✨<br>📚 Junior JavaScript Developer ⚒️<br>🎯 Goals: Be a Senior FullStack Dev 🎯<br>😾Hating SQL Queries😾</p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SrBellic&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
@@ -32,11 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gif-gato-1519137077.gif?crop=1.00xw:0.502xh;0,0.316xh&resize=640:*"  />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
@@ -54,8 +36,22 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<img align="right" height="150" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gif-gato-1519137077.gif?crop=1.00xw:0.502xh;0,0.316xh&resize=640:*"  />
+
+###
+
+<p align="left">✨ Creating bugs since 2023!!✨<br>📚 Junior JavaScript Developer ⚒️<br>🎯 Goals: Be a Senior FullStack Dev 🎯<br>😾Hating SQL Queries😾</p>
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SrBellic/SrBellic/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SrBellic&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
 ###
