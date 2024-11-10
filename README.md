@@ -19,6 +19,12 @@
 ###
 
 <div align="left">
+  <img src="https://streak-stats.demolab.com?user=SrBellic&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
@@ -45,13 +51,5 @@
 ###
 
 <p align="left">✨ Creating bugs since 2023!!✨<br>📚 Junior JavaScript Developer ⚒️<br>🎯 Goals: Be a Senior FullStack Dev 🎯<br>😾Hating SQL Queries😾</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SrBellic&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div>
 
 ###
