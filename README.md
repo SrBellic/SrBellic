@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Bellic, but actually my name is Diego. I'm a junior Dev, from Caracas, Venezuela.</p>
+<p align="left">I'm Bellic, but actually my name is Diego. I'm a JavaScript Dev, from Caracas, Venezuela.</p>
 
 ###
 
